@@ -4,6 +4,8 @@
     padding: 0;
     border: 0;
 } */
+@import url("styles/header.css");
+@import url("styles/banner.css");
 
 :root {
   --cor-de-fundo: #ebecee;
